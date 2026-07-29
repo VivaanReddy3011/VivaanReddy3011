@@ -97,32 +97,9 @@ Learning Web Development, Building Projects and solving algorithmic problems.
 
 ---
 
-# 📫 Connect With Me
-
 <p align="center">
-
-<a href="https://vivaanreddy.me/">
-Portfolio
-</a>
-&nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/k-vivaan-reddy-9a57693b5/">
-LinkedIn
-</a>
-&nbsp;•&nbsp;
-<a href="https://leetcode.com/u/vivaan_reddy/">
-LeetCode
-</a>
-&nbsp;•&nbsp;
-<a href="https://codeforces.com/profile/vivaanreddy1">
-Codeforces
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<i>Code. Learn. Build. Improve.</i>
-
+I observe.
+I analyze.
+I understand.
+I transcend.
 </p>
