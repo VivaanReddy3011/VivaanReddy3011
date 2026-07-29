@@ -14,7 +14,6 @@ MERN Developer • DSA Enthusiast • Competitive Programmer
 <p align="center">
 Learning Web Development, Building Projects and solving algorithmic problems.
 </p>
-
 <p align="center">
   <a href="https://vivaanreddy.me/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
